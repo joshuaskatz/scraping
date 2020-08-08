@@ -1,0 +1,344 @@
+[
+  {
+    "river": "Missouri River",
+    "mouth": "Mississippi River",
+    "lengthMiles": "2,341",
+    "sourceCoordinates": "45°55′39″N 111°30′29″W",
+    "mouthCoordinates": "45.92750°N 111.50806°W",
+    "watershedAreaSqMiles": "529,353",
+    "dischargeCubicFtPerSec": "69,100"
+  },
+  {
+    "river": "Mississippi River",
+    "mouth": "Gulf of Mexico",
+    "lengthMiles": "2,202",
+    "sourceCoordinates": "47°14′22″N 95°12′29″W",
+    "mouthCoordinates": "47.23944°N 95.20806°W",
+    "watershedAreaSqMiles": "1,260,000",
+    "dischargeCubicFtPerSec": "650,000"
+  },
+  {
+    "river": "Yukon River",
+    "mouth": "Bering Sea",
+    "lengthMiles": "1,979",
+    "sourceCoordinates": "59°35′00″N 133°47′00″W",
+    "mouthCoordinates": "59.58333°N 133.78333°W",
+    "watershedAreaSqMiles": "324,000",
+    "dischargeCubicFtPerSec": "224,000"
+  },
+  {
+    "river": "Rio Grande",
+    "mouth": "Gulf of Mexico",
+    "lengthMiles": "1,759",
+    "sourceCoordinates": "37°47′52″N 107°32′18″W",
+    "mouthCoordinates": "37.79778°N 107.53833°W",
+    "watershedAreaSqMiles": "340,000",
+    "dischargeCubicFtPerSec": "1,300"
+  },
+  {
+    "river": "Colorado River",
+    "mouth": "Gulf of California",
+    "lengthMiles": "1,450",
+    "sourceCoordinates": "40°28′20″N 105°49′34″W",
+    "mouthCoordinates": "40.47222°N 105.82611°W",
+    "watershedAreaSqMiles": "248,000",
+    "dischargeCubicFtPerSec": "1,400"
+  },
+  {
+    "river": "Arkansas River",
+    "mouth": "Mississippi River",
+    "lengthMiles": "1,443",
+    "sourceCoordinates": "39°15′30″N 106°20′38″W",
+    "mouthCoordinates": "39.25833°N 106.34389°W",
+    "watershedAreaSqMiles": "160,200",
+    "dischargeCubicFtPerSec": "35,500"
+  },
+  {
+    "river": "Columbia River",
+    "mouth": "Pacific Ocean",
+    "lengthMiles": "1,243",
+    "sourceCoordinates": "50°13′00″N 115°51′00″W",
+    "mouthCoordinates": "50.21667°N 115.85000°W",
+    "watershedAreaSqMiles": "279,548",
+    "dischargeCubicFtPerSec": "273,000"
+  },
+  {
+    "river": "Red River",
+    "mouth": "Atchafalaya",
+    "lengthMiles": "1,125",
+    "sourceCoordinates": "34°34′35″N 99°57′54″W",
+    "mouthCoordinates": "34.57639°N 99.96500°W",
+    "watershedAreaSqMiles": "65,590",
+    "dischargeCubicFtPerSec": "30,100"
+  },
+  {
+    "river": "Snake River",
+    "mouth": "Columbia River",
+    "lengthMiles": "1,040",
+    "sourceCoordinates": "44°07′49″N 110°13′10″W",
+    "mouthCoordinates": "44.13028°N 110.21944°W",
+    "watershedAreaSqMiles": "108,000",
+    "dischargeCubicFtPerSec": "55,300"
+  },
+  {
+    "river": "Ohio River",
+    "mouth": "Mississippi River",
+    "lengthMiles": "979",
+    "sourceCoordinates": "40°26′34″N 80°01′02″W",
+    "mouthCoordinates": "40.44278°N 80.01722°W",
+    "watershedAreaSqMiles": "204,000",
+    "dischargeCubicFtPerSec": "308,400"
+  },
+  {
+    "river": "Colorado River of Texas",
+    "mouth": "Gulf of Mexico",
+    "lengthMiles": "970",
+    "sourceCoordinates": "32°40′47″N 101°43′51″W",
+    "mouthCoordinates": "32.67972°N 101.73083°W",
+    "watershedAreaSqMiles": "39,900",
+    "dischargeCubicFtPerSec": "2,600"
+  },
+  {
+    "river": "Tennessee River",
+    "mouth": "Ohio River",
+    "lengthMiles": "935",
+    "sourceCoordinates": "35°57′33″N 83°51′01″W",
+    "mouthCoordinates": "35.95917°N 83.85028°W",
+    "watershedAreaSqMiles": "40,880",
+    "dischargeCubicFtPerSec": "71,000"
+  },
+  {
+    "river": "Canadian River",
+    "mouth": "Arkansas River",
+    "lengthMiles": "906",
+    "sourceCoordinates": "37°01′11″N 105°04′33″W",
+    "mouthCoordinates": "37.01972°N 105.07583°W",
+    "watershedAreaSqMiles": "47,130",
+    "dischargeCubicFtPerSec": "6,100"
+  },
+  {
+    "river": "Brazos River",
+    "mouth": "Gulf of Mexico",
+    "lengthMiles": "860",
+    "sourceCoordinates": "33°16′07″N 100°00′37″W",
+    "mouthCoordinates": "33.26861°N 100.01028°W",
+    "watershedAreaSqMiles": "44,620",
+    "dischargeCubicFtPerSec": "8,800"
+  },
+  {
+    "river": "Green River",
+    "mouth": "Colorado River",
+    "lengthMiles": "760",
+    "sourceCoordinates": "43°09′13″N 109°40′18″W",
+    "mouthCoordinates": "43.15361°N 109.67167°W",
+    "watershedAreaSqMiles": "44,900",
+    "dischargeCubicFtPerSec": "6,100"
+  },
+  {
+    "river": "Pecos River",
+    "mouth": "Rio Grande",
+    "lengthMiles": "730",
+    "sourceCoordinates": "35°58′34″N 105°33′29″W",
+    "mouthCoordinates": "35.97611°N 105.55806°W",
+    "watershedAreaSqMiles": "44,000",
+    "dischargeCubicFtPerSec": "71"
+  },
+  {
+    "river": "White River (Arkansas)",
+    "mouth": "Mississippi River",
+    "lengthMiles": "720",
+    "sourceCoordinates": "35°50′20″N 93°36′16″W",
+    "mouthCoordinates": "35.83889°N 93.60444°W",
+    "watershedAreaSqMiles": "27,872",
+    "dischargeCubicFtPerSec": "34,600"
+  },
+  {
+    "river": "James River",
+    "mouth": "[n 18]",
+    "lengthMiles": "[n 18]",
+    "sourceCoordinates": "47°28′53″N 99°51′32″W",
+    "mouthCoordinates": "47.48139°N 99.85889°W",
+    "watershedAreaSqMiles": "20,942",
+    "dischargeCubicFtPerSec": "854"
+  },
+  {
+    "river": "Kuskokwim River",
+    "mouth": "Bering Sea",
+    "lengthMiles": "702",
+    "sourceCoordinates": "63°05′16″N 154°38′33″W",
+    "mouthCoordinates": "63.08778°N 154.64250°W",
+    "watershedAreaSqMiles": "48,000",
+    "dischargeCubicFtPerSec": "67,000"
+  },
+  {
+    "river": "Cimarron River",
+    "mouth": "Arkansas River",
+    "lengthMiles": "698",
+    "sourceCoordinates": "36°54′24″N 102°59′12″W",
+    "mouthCoordinates": "36.90667°N 102.98667°W",
+    "watershedAreaSqMiles": "19,510",
+    "dischargeCubicFtPerSec": "1,500"
+  },
+  {
+    "river": "Cumberland River",
+    "mouth": "Ohio River",
+    "lengthMiles": "696",
+    "sourceCoordinates": "36°50′42″N 83°19′26″W",
+    "mouthCoordinates": "36.84500°N 83.32389°W",
+    "watershedAreaSqMiles": "17,930",
+    "dischargeCubicFtPerSec": "30,400"
+  },
+  {
+    "river": "Yellowstone River",
+    "mouth": "Missouri River",
+    "lengthMiles": "678",
+    "sourceCoordinates": "43°59′18″N 109°55′45″W",
+    "mouthCoordinates": "43.98833°N 109.92917°W",
+    "watershedAreaSqMiles": "70,400",
+    "dischargeCubicFtPerSec": "12,800"
+  },
+  {
+    "river": "North Platte River",
+    "mouth": "Platte River",
+    "lengthMiles": "665",
+    "sourceCoordinates": "40°38′23″N 106°24′19″W",
+    "mouthCoordinates": "40.63972°N 106.40528°W",
+    "watershedAreaSqMiles": "34,885",
+    "dischargeCubicFtPerSec": "770"
+  },
+  {
+    "river": "Milk River",
+    "mouth": "Missouri River",
+    "lengthMiles": "625",
+    "sourceCoordinates": "48°51′20″N 113°01′10″W",
+    "mouthCoordinates": "48.85556°N 113.01944°W",
+    "watershedAreaSqMiles": "22,332",
+    "dischargeCubicFtPerSec": "670"
+  },
+  {
+    "river": "Ouachita River",
+    "mouth": "Black River",
+    "lengthMiles": "605",
+    "sourceCoordinates": "31°41′56″N 94°19′57″W",
+    "mouthCoordinates": "31.69889°N 94.33250°W",
+    "watershedAreaSqMiles": "24,886",
+    "dischargeCubicFtPerSec": "29,800"
+  },
+  {
+    "river": "Saint Lawrence River",
+    "mouth": "Gulf of Saint Lawrence",
+    "lengthMiles": "600",
+    "sourceCoordinates": "44°05′55″N 76°23′28″W",
+    "mouthCoordinates": "44.09861°N 76.39111°W",
+    "watershedAreaSqMiles": "620,000",
+    "dischargeCubicFtPerSec": "440,000"
+  },
+  {
+    "river": "Gila River",
+    "mouth": "Colorado River",
+    "lengthMiles": "600",
+    "sourceCoordinates": "33°10′47″N 108°12′22″W",
+    "mouthCoordinates": "33.17972°N 108.20611°W",
+    "watershedAreaSqMiles": "57,850",
+    "dischargeCubicFtPerSec": "210"
+  },
+  {
+    "river": "Sheyenne River",
+    "mouth": "Red River of the North",
+    "lengthMiles": "591",
+    "sourceCoordinates": "47°41′46″N 100°29′52″W",
+    "mouthCoordinates": "47.69611°N 100.49778°W",
+    "watershedAreaSqMiles": "8,800",
+    "dischargeCubicFtPerSec": "288"
+  },
+  {
+    "river": "Tanana River",
+    "mouth": "Yukon River",
+    "lengthMiles": "584",
+    "sourceCoordinates": "63°02′57″N 141°51′52″W",
+    "mouthCoordinates": "63.04917°N 141.86444°W",
+    "watershedAreaSqMiles": "44,000",
+    "dischargeCubicFtPerSec": "41,800"
+  },
+  {
+    "river": "Smoky Hill River",
+    "mouth": "Kansas River",
+    "lengthMiles": "576",
+    "sourceCoordinates": "38°57′01″N 102°34′49″W",
+    "mouthCoordinates": "38.95028°N 102.58028°W",
+    "watershedAreaSqMiles": "19,260",
+    "dischargeCubicFtPerSec": "1,542"
+  },
+  {
+    "river": "Niobrara River",
+    "mouth": "Missouri River",
+    "lengthMiles": "568",
+    "sourceCoordinates": "42°49′15″N 104°38′50″W",
+    "mouthCoordinates": "42.82083°N 104.64722°W",
+    "watershedAreaSqMiles": "12,600",
+    "dischargeCubicFtPerSec": "1,700"
+  },
+  {
+    "river": "Little Missouri River",
+    "mouth": "Missouri River",
+    "lengthMiles": "560",
+    "sourceCoordinates": "44°32′25″N 104°59′57″W",
+    "mouthCoordinates": "44.54028°N 104.99917°W",
+    "watershedAreaSqMiles": "8,310",
+    "dischargeCubicFtPerSec": "450"
+  },
+  {
+    "river": "Sabine River",
+    "mouth": "Gulf of Mexico",
+    "lengthMiles": "553",
+    "sourceCoordinates": "32°48′29″N 95°55′14″W",
+    "mouthCoordinates": "32.80806°N 95.92056°W",
+    "watershedAreaSqMiles": "9,756",
+    "dischargeCubicFtPerSec": "8,400"
+  },
+  {
+    "river": "Red River of the North",
+    "mouth": "Lake Winnipeg",
+    "lengthMiles": "550",
+    "sourceCoordinates": "46°15′52″N 96°35′55″W",
+    "mouthCoordinates": "46.26444°N 96.59861°W",
+    "watershedAreaSqMiles": "111,000",
+    "dischargeCubicFtPerSec": "8,300"
+  },
+  {
+    "river": "Des Moines River",
+    "mouth": "Mississippi River",
+    "lengthMiles": "525",
+    "sourceCoordinates": "44°05′02″N 95°41′17″W",
+    "mouthCoordinates": "44.08389°N 95.68806°W",
+    "watershedAreaSqMiles": "12,018",
+    "dischargeCubicFtPerSec": "6,400"
+  },
+  {
+    "river": "White River (Missouri River)",
+    "mouth": "Missouri River",
+    "lengthMiles": "506",
+    "sourceCoordinates": "42°41′10″N 103°50′14″W",
+    "mouthCoordinates": "42.68611°N 103.83722°W",
+    "watershedAreaSqMiles": "10,200",
+    "dischargeCubicFtPerSec": "570"
+  },
+  {
+    "river": "Trinity River",
+    "mouth": "Galveston Bay",
+    "lengthMiles": "506",
+    "sourceCoordinates": "32°47′54″N 96°53′52″W",
+    "mouthCoordinates": "32.79833°N 96.89778°W",
+    "watershedAreaSqMiles": "17,970",
+    "dischargeCubicFtPerSec": "7,800"
+  },
+  {
+    "river": "Wabash River",
+    "mouth": "Ohio River",
+    "lengthMiles": "503",
+    "sourceCoordinates": "40°21′07″N 84°45′57″W",
+    "mouthCoordinates": "40.35194°N 84.76583°W",
+    "watershedAreaSqMiles": "32,950",
+    "dischargeCubicFtPerSec": "1,001"
+  }
+]

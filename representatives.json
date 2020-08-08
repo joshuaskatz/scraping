@@ -1,0 +1,3047 @@
+[
+  {
+    "district": "Alabama's 1st congressional district",
+    "repName": "Bradley Byrne",
+    "party": "Republican",
+    "assumedOffice": "2014 (special)",
+    "residence": "Fairhope"
+  },
+  {
+    "district": "Alabama's 2nd congressional district",
+    "repName": "Martha Roby",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Montgomery"
+  },
+  {
+    "district": "Alabama's 3rd congressional district",
+    "repName": "Mike Rogers",
+    "party": "Republican",
+    "assumedOffice": "2003",
+    "residence": "Saks"
+  },
+  {
+    "district": "Alabama's 4th congressional district",
+    "repName": "Robert Aderholt",
+    "party": "Republican",
+    "assumedOffice": "1997",
+    "residence": "Haleyville"
+  },
+  {
+    "district": "Alabama's 5th congressional district",
+    "repName": "Mo Brooks",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Huntsville"
+  },
+  {
+    "district": "Alabama's 6th congressional district",
+    "repName": "Gary Palmer",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Hoover"
+  },
+  {
+    "district": "Alabama's 7th congressional district",
+    "repName": "Terri Sewell",
+    "party": "Democratic",
+    "assumedOffice": "2011",
+    "residence": "Birmingham"
+  },
+  {
+    "district": "Alaska's at-large congressional district",
+    "repName": "Don Young",
+    "party": "Republican",
+    "assumedOffice": "1973 (special)",
+    "residence": "Fort Yukon"
+  },
+  {
+    "district": "Arizona's 1st congressional district",
+    "repName": "Tom O'Halleran",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Sedona"
+  },
+  {
+    "district": "Arizona's 2nd congressional district",
+    "repName": "Ann Kirkpatrick",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Tucson"
+  },
+  {
+    "district": "Arizona's 3rd congressional district",
+    "repName": "Raúl Grijalva",
+    "party": "Democratic",
+    "assumedOffice": "2003",
+    "residence": "Tucson"
+  },
+  {
+    "district": "Arizona's 4th congressional district",
+    "repName": "Paul Gosar",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Prescott"
+  },
+  {
+    "district": "Arizona's 5th congressional district",
+    "repName": "Andy Biggs",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Gilbert"
+  },
+  {
+    "district": "Arizona's 6th congressional district",
+    "repName": "David Schweikert",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Scottsdale"
+  },
+  {
+    "district": "Arizona's 7th congressional district",
+    "repName": "Ruben Gallego",
+    "party": "Democratic",
+    "assumedOffice": "2015",
+    "residence": "Phoenix"
+  },
+  {
+    "district": "Arizona's 8th congressional district",
+    "repName": "Debbie Lesko",
+    "party": "Republican",
+    "assumedOffice": "2018 (special)",
+    "residence": "Peoria"
+  },
+  {
+    "district": "Arizona's 9th congressional district",
+    "repName": "Greg Stanton",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Phoenix"
+  },
+  {
+    "district": "Arkansas's 1st congressional district",
+    "repName": "Rick Crawford",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Jonesboro"
+  },
+  {
+    "district": "Arkansas's 2nd congressional district",
+    "repName": "French Hill",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Little Rock"
+  },
+  {
+    "district": "Arkansas's 3rd congressional district",
+    "repName": "Steve Womack",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Rogers"
+  },
+  {
+    "district": "Arkansas's 4th congressional district",
+    "repName": "Bruce Westerman",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Hot Springs"
+  },
+  {
+    "district": "California's 1st congressional district",
+    "repName": "Doug LaMalfa",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Richvale"
+  },
+  {
+    "district": "California's 2nd congressional district",
+    "repName": "Jared Huffman",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "San Rafael"
+  },
+  {
+    "district": "California's 3rd congressional district",
+    "repName": "John Garamendi",
+    "party": "Democratic",
+    "assumedOffice": "2009 (special)",
+    "residence": "Walnut Grove"
+  },
+  {
+    "district": "California's 4th congressional district",
+    "repName": "Tom McClintock",
+    "party": "Republican",
+    "assumedOffice": "2009",
+    "residence": "Elk Grove"
+  },
+  {
+    "district": "California's 5th congressional district",
+    "repName": "Mike Thompson",
+    "party": "Democratic",
+    "assumedOffice": "1999",
+    "residence": "St. Helena"
+  },
+  {
+    "district": "California's 6th congressional district",
+    "repName": "Doris Matsui",
+    "party": "Democratic",
+    "assumedOffice": "2005 (special)",
+    "residence": "Sacramento"
+  },
+  {
+    "district": "California's 7th congressional district",
+    "repName": "Ami Bera",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Elk Grove"
+  },
+  {
+    "district": "California's 8th congressional district",
+    "repName": "Paul Cook",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Yucca Valley"
+  },
+  {
+    "district": "California's 9th congressional district",
+    "repName": "Jerry McNerney",
+    "party": "Democratic",
+    "assumedOffice": "2007",
+    "residence": "Stockton"
+  },
+  {
+    "district": "California's 10th congressional district",
+    "repName": "Josh Harder",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Turlock"
+  },
+  {
+    "district": "California's 11th congressional district",
+    "repName": "Mark DeSaulnier",
+    "party": "Democratic",
+    "assumedOffice": "2015",
+    "residence": "Concord"
+  },
+  {
+    "district": "California's 12th congressional district",
+    "repName": "Nancy Pelosi",
+    "party": "Democratic",
+    "assumedOffice": "1987 (special)",
+    "residence": "San Francisco"
+  },
+  {
+    "district": "California's 13th congressional district",
+    "repName": "Barbara Lee",
+    "party": "Democratic",
+    "assumedOffice": "1998 (special)",
+    "residence": "Oakland"
+  },
+  {
+    "district": "California's 14th congressional district",
+    "repName": "Jackie Speier",
+    "party": "Democratic",
+    "assumedOffice": "2008 (special)",
+    "residence": "Hillsborough"
+  },
+  {
+    "district": "California's 15th congressional district",
+    "repName": "Eric Swalwell",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Dublin"
+  },
+  {
+    "district": "California's 16th congressional district",
+    "repName": "Jim Costa",
+    "party": "Democratic",
+    "assumedOffice": "2005",
+    "residence": "Fresno"
+  },
+  {
+    "district": "California's 17th congressional district",
+    "repName": "Ro Khanna",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Fremont"
+  },
+  {
+    "district": "California's 18th congressional district",
+    "repName": "Anna Eshoo",
+    "party": "Democratic",
+    "assumedOffice": "1993",
+    "residence": "Atherton"
+  },
+  {
+    "district": "California's 19th congressional district",
+    "repName": "Zoe Lofgren",
+    "party": "Democratic",
+    "assumedOffice": "1995",
+    "residence": "San Jose"
+  },
+  {
+    "district": "California's 20th congressional district",
+    "repName": "Jimmy Panetta",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Carmel Valley"
+  },
+  {
+    "district": "California's 21st congressional district",
+    "repName": "TJ Cox",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Fresno"
+  },
+  {
+    "district": "California's 22nd congressional district",
+    "repName": "Devin Nunes",
+    "party": "Republican",
+    "assumedOffice": "2003",
+    "residence": "Tulare"
+  },
+  {
+    "district": "California's 23rd congressional district",
+    "repName": "Kevin McCarthy",
+    "party": "Republican",
+    "assumedOffice": "2007",
+    "residence": "Bakersfield"
+  },
+  {
+    "district": "California's 24th congressional district",
+    "repName": "Salud Carbajal",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Santa Barbara"
+  },
+  {
+    "district": "California's 25th congressional district",
+    "repName": "Mike Garcia",
+    "party": "Republican",
+    "assumedOffice": "2020 (special)",
+    "residence": "Santa Clarita"
+  },
+  {
+    "district": "California's 26th congressional district",
+    "repName": "Julia Brownley",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Oak Park"
+  },
+  {
+    "district": "California's 27th congressional district",
+    "repName": "Judy Chu",
+    "party": "Democratic",
+    "assumedOffice": "2009 (special)",
+    "residence": "Monterey Park"
+  },
+  {
+    "district": "California's 28th congressional district",
+    "repName": "Adam Schiff",
+    "party": "Democratic",
+    "assumedOffice": "2001",
+    "residence": "Burbank"
+  },
+  {
+    "district": "California's 29th congressional district",
+    "repName": "Tony Cárdenas",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "San Fernando Valley"
+  },
+  {
+    "district": "California's 30th congressional district",
+    "repName": "Brad Sherman",
+    "party": "Democratic",
+    "assumedOffice": "1997",
+    "residence": "Sherman Oaks"
+  },
+  {
+    "district": "California's 31st congressional district",
+    "repName": "Pete Aguilar",
+    "party": "Democratic",
+    "assumedOffice": "2015",
+    "residence": "Redlands"
+  },
+  {
+    "district": "California's 32nd congressional district",
+    "repName": "Grace Napolitano",
+    "party": "Democratic",
+    "assumedOffice": "1999",
+    "residence": "Norwalk"
+  },
+  {
+    "district": "California's 33rd congressional district",
+    "repName": "Ted Lieu",
+    "party": "Democratic",
+    "assumedOffice": "2015",
+    "residence": "Torrance"
+  },
+  {
+    "district": "California's 34th congressional district",
+    "repName": "Jimmy Gomez",
+    "party": "Democratic",
+    "assumedOffice": "2017 (special)",
+    "residence": "Los Angeles"
+  },
+  {
+    "district": "California's 35th congressional district",
+    "repName": "Norma Torres",
+    "party": "Democratic",
+    "assumedOffice": "2015",
+    "residence": "Pomona"
+  },
+  {
+    "district": "California's 36th congressional district",
+    "repName": "Raul Ruiz",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Palm Desert"
+  },
+  {
+    "district": "California's 37th congressional district",
+    "repName": "Karen Bass",
+    "party": "Democratic",
+    "assumedOffice": "2011",
+    "residence": "Baldwin Hills"
+  },
+  {
+    "district": "California's 38th congressional district",
+    "repName": "Linda Sánchez",
+    "party": "Democratic",
+    "assumedOffice": "2003",
+    "residence": "Orange"
+  },
+  {
+    "district": "California's 39th congressional district",
+    "repName": "Gil Cisneros",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Yorba Linda"
+  },
+  {
+    "district": "California's 40th congressional district",
+    "repName": "Lucille Roybal-Allard",
+    "party": "Democratic",
+    "assumedOffice": "1993",
+    "residence": "Downey"
+  },
+  {
+    "district": "California's 41st congressional district",
+    "repName": "Mark Takano",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Riverside"
+  },
+  {
+    "district": "California's 42nd congressional district",
+    "repName": "Ken Calvert",
+    "party": "Republican",
+    "assumedOffice": "1993",
+    "residence": "Corona"
+  },
+  {
+    "district": "California's 43rd congressional district",
+    "repName": "Maxine Waters",
+    "party": "Democratic",
+    "assumedOffice": "1991",
+    "residence": "Inglewood"
+  },
+  {
+    "district": "California's 44th congressional district",
+    "repName": "Nanette Barragán",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "San Pedro"
+  },
+  {
+    "district": "California's 45th congressional district",
+    "repName": "Katie Porter",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Irvine"
+  },
+  {
+    "district": "California's 46th congressional district",
+    "repName": "Lou Correa",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Santa Ana"
+  },
+  {
+    "district": "California's 47th congressional district",
+    "repName": "Alan Lowenthal",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Long Beach"
+  },
+  {
+    "district": "California's 48th congressional district",
+    "repName": "Harley Rouda",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Laguna Beach"
+  },
+  {
+    "district": "California's 49th congressional district",
+    "repName": "Mike Levin",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "San Juan Capistrano"
+  },
+  {
+    "district": "California's 50th congressional district",
+    "repName": "",
+    "party": "",
+    "assumedOffice": "",
+    "residence": ""
+  },
+  {
+    "district": "California's 51st congressional district",
+    "repName": "Juan Vargas",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Golden Hill"
+  },
+  {
+    "district": "California's 52nd congressional district",
+    "repName": "Scott Peters",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "La Jolla"
+  },
+  {
+    "district": "California's 53rd congressional district",
+    "repName": "Susan Davis",
+    "party": "Democratic",
+    "assumedOffice": "2001",
+    "residence": "San Diego"
+  },
+  {
+    "district": "Colorado's 1st congressional district",
+    "repName": "Diana DeGette",
+    "party": "Democratic",
+    "assumedOffice": "1997",
+    "residence": "Denver"
+  },
+  {
+    "district": "Colorado's 2nd congressional district",
+    "repName": "Joe Neguse",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Boulder"
+  },
+  {
+    "district": "Colorado's 3rd congressional district",
+    "repName": "Scott Tipton",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Cortez"
+  },
+  {
+    "district": "Colorado's 4th congressional district",
+    "repName": "Ken Buck",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Greeley"
+  },
+  {
+    "district": "Colorado's 5th congressional district",
+    "repName": "Doug Lamborn",
+    "party": "Republican",
+    "assumedOffice": "2007",
+    "residence": "Colorado Springs"
+  },
+  {
+    "district": "Colorado's 6th congressional district",
+    "repName": "Jason Crow",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Aurora"
+  },
+  {
+    "district": "Colorado's 7th congressional district",
+    "repName": "Ed Perlmutter",
+    "party": "Democratic",
+    "assumedOffice": "2007",
+    "residence": "Lakewood"
+  },
+  {
+    "district": "Connecticut's 1st congressional district",
+    "repName": "John B. Larson",
+    "party": "Democratic",
+    "assumedOffice": "1999",
+    "residence": "East Hartford"
+  },
+  {
+    "district": "Connecticut's 2nd congressional district",
+    "repName": "Joe Courtney",
+    "party": "Democratic",
+    "assumedOffice": "2007",
+    "residence": "Vernon"
+  },
+  {
+    "district": "Connecticut's 3rd congressional district",
+    "repName": "Rosa DeLauro",
+    "party": "Democratic",
+    "assumedOffice": "1991",
+    "residence": "New Haven"
+  },
+  {
+    "district": "Connecticut's 4th congressional district",
+    "repName": "Jim Himes",
+    "party": "Democratic",
+    "assumedOffice": "2009",
+    "residence": "Cos Cob"
+  },
+  {
+    "district": "Connecticut's 5th congressional district",
+    "repName": "Jahana Hayes",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Wolcott"
+  },
+  {
+    "district": "Delaware's at-large congressional district",
+    "repName": "Lisa Blunt Rochester",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Wilmington"
+  },
+  {
+    "district": "Florida's 1st congressional district",
+    "repName": "Matt Gaetz",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Fort Walton Beach"
+  },
+  {
+    "district": "Florida's 2nd congressional district",
+    "repName": "Neal Dunn",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Panama City"
+  },
+  {
+    "district": "Florida's 3rd congressional district",
+    "repName": "Ted Yoho",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Gainesville"
+  },
+  {
+    "district": "Florida's 4th congressional district",
+    "repName": "John Rutherford",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Jacksonville"
+  },
+  {
+    "district": "Florida's 5th congressional district",
+    "repName": "Al Lawson",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Tallahassee"
+  },
+  {
+    "district": "Florida's 6th congressional district",
+    "repName": "Michael Waltz",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Daytona Beach"
+  },
+  {
+    "district": "Florida's 7th congressional district",
+    "repName": "Stephanie Murphy",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Winter Park"
+  },
+  {
+    "district": "Florida's 8th congressional district",
+    "repName": "Bill Posey",
+    "party": "Republican",
+    "assumedOffice": "2009",
+    "residence": "Rockledge"
+  },
+  {
+    "district": "Florida's 9th congressional district",
+    "repName": "Darren Soto",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Orlando"
+  },
+  {
+    "district": "Florida's 10th congressional district",
+    "repName": "Val Demings",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Orlando"
+  },
+  {
+    "district": "Florida's 11th congressional district",
+    "repName": "Daniel Webster",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Winter Garden"
+  },
+  {
+    "district": "Florida's 12th congressional district",
+    "repName": "Gus Bilirakis",
+    "party": "Republican",
+    "assumedOffice": "2007",
+    "residence": "Palm Harbor"
+  },
+  {
+    "district": "Florida's 13th congressional district",
+    "repName": "Charlie Crist",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "St. Petersburg"
+  },
+  {
+    "district": "Florida's 14th congressional district",
+    "repName": "Kathy Castor",
+    "party": "Democratic",
+    "assumedOffice": "2007",
+    "residence": "Tampa"
+  },
+  {
+    "district": "Florida's 15th congressional district",
+    "repName": "Ross Spano",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Dover"
+  },
+  {
+    "district": "Florida's 16th congressional district",
+    "repName": "Vern Buchanan",
+    "party": "Republican",
+    "assumedOffice": "2007",
+    "residence": "Longboat Key"
+  },
+  {
+    "district": "Florida's 17th congressional district",
+    "repName": "Greg Steube",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Sarasota"
+  },
+  {
+    "district": "Florida's 18th congressional district",
+    "repName": "Brian Mast",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Hutchinson Island"
+  },
+  {
+    "district": "Florida's 19th congressional district",
+    "repName": "Francis Rooney",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Naples"
+  },
+  {
+    "district": "Florida's 20th congressional district",
+    "repName": "Alcee Hastings",
+    "party": "Democratic",
+    "assumedOffice": "1993",
+    "residence": "Miramar"
+  },
+  {
+    "district": "Florida's 21st congressional district",
+    "repName": "Lois Frankel",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "West Palm Beach"
+  },
+  {
+    "district": "Florida's 22nd congressional district",
+    "repName": "Ted Deutch",
+    "party": "Democratic",
+    "assumedOffice": "2010 (special)",
+    "residence": "Boca Raton"
+  },
+  {
+    "district": "Florida's 23rd congressional district",
+    "repName": "Debbie Wasserman Schultz",
+    "party": "Democratic",
+    "assumedOffice": "2005",
+    "residence": "Weston"
+  },
+  {
+    "district": "Florida's 24th congressional district",
+    "repName": "Frederica Wilson",
+    "party": "Democratic",
+    "assumedOffice": "2011",
+    "residence": "Miami Gardens"
+  },
+  {
+    "district": "Florida's 25th congressional district",
+    "repName": "Mario Díaz-Balart",
+    "party": "Republican",
+    "assumedOffice": "2003",
+    "residence": "Miami"
+  },
+  {
+    "district": "Florida's 26th congressional district",
+    "repName": "Debbie Mucarsel-Powell",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Miami"
+  },
+  {
+    "district": "Florida's 27th congressional district",
+    "repName": "Donna Shalala",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Miami"
+  },
+  {
+    "district": "Georgia's 1st congressional district",
+    "repName": "Buddy Carter",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Pooler"
+  },
+  {
+    "district": "Georgia's 2nd congressional district",
+    "repName": "Sanford Bishop",
+    "party": "Democratic",
+    "assumedOffice": "1993",
+    "residence": "Albany"
+  },
+  {
+    "district": "Georgia's 3rd congressional district",
+    "repName": "Drew Ferguson",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "West Point"
+  },
+  {
+    "district": "Georgia's 4th congressional district",
+    "repName": "Hank Johnson",
+    "party": "Democratic",
+    "assumedOffice": "2007",
+    "residence": "Lithonia"
+  },
+  {
+    "district": "Georgia's 5th congressional district",
+    "repName": "",
+    "party": "",
+    "assumedOffice": "",
+    "residence": ""
+  },
+  {
+    "district": "Georgia's 6th congressional district",
+    "repName": "Lucy McBath",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Marietta"
+  },
+  {
+    "district": "Georgia's 7th congressional district",
+    "repName": "Rob Woodall",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Peachtree Corners"
+  },
+  {
+    "district": "Georgia's 8th congressional district",
+    "repName": "Austin Scott",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Tifton"
+  },
+  {
+    "district": "Georgia's 9th congressional district",
+    "repName": "Doug Collins",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Gainesville"
+  },
+  {
+    "district": "Georgia's 10th congressional district",
+    "repName": "Jody Hice",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Bethlehem"
+  },
+  {
+    "district": "Georgia's 11th congressional district",
+    "repName": "Barry Loudermilk",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Cassville"
+  },
+  {
+    "district": "Georgia's 12th congressional district",
+    "repName": "Rick W. Allen",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Augusta"
+  },
+  {
+    "district": "Georgia's 13th congressional district",
+    "repName": "David Scott",
+    "party": "Democratic",
+    "assumedOffice": "2003",
+    "residence": "Atlanta"
+  },
+  {
+    "district": "Georgia's 14th congressional district",
+    "repName": "Tom Graves",
+    "party": "Republican",
+    "assumedOffice": "2010 (special)",
+    "residence": "Ranger"
+  },
+  {
+    "district": "Hawaii's 1st congressional district",
+    "repName": "Ed Case",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Kaneohe"
+  },
+  {
+    "district": "Hawaii's 2nd congressional district",
+    "repName": "Tulsi Gabbard",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Honolulu"
+  },
+  {
+    "district": "Idaho's 1st congressional district",
+    "repName": "Russ Fulcher",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Meridian"
+  },
+  {
+    "district": "Idaho's 2nd congressional district",
+    "repName": "Mike Simpson",
+    "party": "Republican",
+    "assumedOffice": "1999",
+    "residence": "Idaho Falls"
+  },
+  {
+    "district": "Illinois's 1st congressional district",
+    "repName": "Bobby Rush",
+    "party": "Democratic",
+    "assumedOffice": "1993",
+    "residence": "Englewood"
+  },
+  {
+    "district": "Illinois's 2nd congressional district",
+    "repName": "Robin Kelly",
+    "party": "Democratic",
+    "assumedOffice": "2013 (special)",
+    "residence": "Matteson"
+  },
+  {
+    "district": "Illinois's 3rd congressional district",
+    "repName": "Dan Lipinski",
+    "party": "Democratic",
+    "assumedOffice": "2005",
+    "residence": "Western Springs"
+  },
+  {
+    "district": "Illinois's 4th congressional district",
+    "repName": "Jesús \"Chuy\" García",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Chicago"
+  },
+  {
+    "district": "Illinois's 5th congressional district",
+    "repName": "Mike Quigley",
+    "party": "Democratic",
+    "assumedOffice": "2009 (special)",
+    "residence": "Lincoln Park, Chicago"
+  },
+  {
+    "district": "Illinois's 6th congressional district",
+    "repName": "Sean Casten",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Downers Grove"
+  },
+  {
+    "district": "Illinois's 7th congressional district",
+    "repName": "Danny K. Davis",
+    "party": "Democratic",
+    "assumedOffice": "1997",
+    "residence": "Austin, Chicago"
+  },
+  {
+    "district": "Illinois's 8th congressional district",
+    "repName": "Raja Krishnamoorthi",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Schaumburg"
+  },
+  {
+    "district": "Illinois's 9th congressional district",
+    "repName": "Jan Schakowsky",
+    "party": "Democratic",
+    "assumedOffice": "1999",
+    "residence": "Evanston"
+  },
+  {
+    "district": "Illinois's 10th congressional district",
+    "repName": "Brad Schneider",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Deerfield"
+  },
+  {
+    "district": "Illinois's 11th congressional district",
+    "repName": "Bill Foster",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Naperville"
+  },
+  {
+    "district": "Illinois's 12th congressional district",
+    "repName": "Mike Bost",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Murphysboro"
+  },
+  {
+    "district": "Illinois's 13th congressional district",
+    "repName": "Rodney Davis",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Taylorville"
+  },
+  {
+    "district": "Illinois's 14th congressional district",
+    "repName": "Lauren Underwood",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Naperville"
+  },
+  {
+    "district": "Illinois's 15th congressional district",
+    "repName": "John Shimkus",
+    "party": "Republican",
+    "assumedOffice": "1997",
+    "residence": "Collinsville"
+  },
+  {
+    "district": "Illinois's 16th congressional district",
+    "repName": "Adam Kinzinger",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Rockford"
+  },
+  {
+    "district": "Illinois's 17th congressional district",
+    "repName": "Cheri Bustos",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "East Moline"
+  },
+  {
+    "district": "Illinois's 18th congressional district",
+    "repName": "Darin LaHood",
+    "party": "Republican",
+    "assumedOffice": "2015 (special)",
+    "residence": "Dunlap"
+  },
+  {
+    "district": "Indiana's 1st congressional district",
+    "repName": "Pete Visclosky",
+    "party": "Democratic",
+    "assumedOffice": "1985",
+    "residence": "Merrillville"
+  },
+  {
+    "district": "Indiana's 2nd congressional district",
+    "repName": "Jackie Walorski",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Jimtown"
+  },
+  {
+    "district": "Indiana's 3rd congressional district",
+    "repName": "Jim Banks",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Columbia City"
+  },
+  {
+    "district": "Indiana's 4th congressional district",
+    "repName": "Jim Baird",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Greencastle"
+  },
+  {
+    "district": "Indiana's 5th congressional district",
+    "repName": "Susan Brooks",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Carmel"
+  },
+  {
+    "district": "Indiana's 6th congressional district",
+    "repName": "Greg Pence",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Edinburgh"
+  },
+  {
+    "district": "Indiana's 7th congressional district",
+    "repName": "André Carson",
+    "party": "Democratic",
+    "assumedOffice": "2008 (special)",
+    "residence": "Center Township, Marion County"
+  },
+  {
+    "district": "Indiana's 8th congressional district",
+    "repName": "Larry Bucshon",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Newburgh"
+  },
+  {
+    "district": "Indiana's 9th congressional district",
+    "repName": "Trey Hollingsworth",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Jeffersonville"
+  },
+  {
+    "district": "Iowa's 1st congressional district",
+    "repName": "Abby Finkenauer",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Dubuque"
+  },
+  {
+    "district": "Iowa's 2nd congressional district",
+    "repName": "Dave Loebsack",
+    "party": "Democratic",
+    "assumedOffice": "2007",
+    "residence": "Iowa City"
+  },
+  {
+    "district": "Iowa's 3rd congressional district",
+    "repName": "Cindy Axne",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "West Des Moines"
+  },
+  {
+    "district": "Iowa's 4th congressional district",
+    "repName": "Steve King",
+    "party": "Republican",
+    "assumedOffice": "2003",
+    "residence": "Kiron"
+  },
+  {
+    "district": "Kansas's 1st congressional district",
+    "repName": "Roger Marshall",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Great Bend"
+  },
+  {
+    "district": "Kansas's 2nd congressional district",
+    "repName": "Steve Watkins",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Topeka"
+  },
+  {
+    "district": "Kansas's 3rd congressional district",
+    "repName": "Sharice Davids",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Shawnee"
+  },
+  {
+    "district": "Kansas's 4th congressional district",
+    "repName": "Ron Estes",
+    "party": "Republican",
+    "assumedOffice": "2017 (special)",
+    "residence": "Wichita"
+  },
+  {
+    "district": "Kentucky's 1st congressional district",
+    "repName": "James Comer",
+    "party": "Republican",
+    "assumedOffice": "2016 (special)",
+    "residence": "Tompkinsville"
+  },
+  {
+    "district": "Kentucky's 2nd congressional district",
+    "repName": "Brett Guthrie",
+    "party": "Republican",
+    "assumedOffice": "2009",
+    "residence": "Bowling Green"
+  },
+  {
+    "district": "Kentucky's 3rd congressional district",
+    "repName": "John Yarmuth",
+    "party": "Democratic",
+    "assumedOffice": "2007",
+    "residence": "Louisville"
+  },
+  {
+    "district": "Kentucky's 4th congressional district",
+    "repName": "Thomas Massie",
+    "party": "Republican",
+    "assumedOffice": "2012 (special)",
+    "residence": "Garrison"
+  },
+  {
+    "district": "Kentucky's 5th congressional district",
+    "repName": "Hal Rogers",
+    "party": "Republican",
+    "assumedOffice": "1981",
+    "residence": "Mount Vernon"
+  },
+  {
+    "district": "Kentucky's 6th congressional district",
+    "repName": "Andy Barr",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Lexington"
+  },
+  {
+    "district": "Louisiana's 1st congressional district",
+    "repName": "Steve Scalise",
+    "party": "Republican",
+    "assumedOffice": "2008 (special)",
+    "residence": "Jefferson"
+  },
+  {
+    "district": "Louisiana's 2nd congressional district",
+    "repName": "Cedric Richmond",
+    "party": "Democratic",
+    "assumedOffice": "2011",
+    "residence": "New Orleans"
+  },
+  {
+    "district": "Louisiana's 3rd congressional district",
+    "repName": "Clay Higgins",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Port Barre"
+  },
+  {
+    "district": "Louisiana's 4th congressional district",
+    "repName": "Mike Johnson",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Benton"
+  },
+  {
+    "district": "Louisiana's 5th congressional district",
+    "repName": "Ralph Abraham",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Mangham"
+  },
+  {
+    "district": "Louisiana's 6th congressional district",
+    "repName": "Garret Graves",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Baton Rouge"
+  },
+  {
+    "district": "Maine's 1st congressional district",
+    "repName": "Chellie Pingree",
+    "party": "Democratic",
+    "assumedOffice": "2009",
+    "residence": "North Haven"
+  },
+  {
+    "district": "Maine's 2nd congressional district",
+    "repName": "Jared Golden",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Lewiston"
+  },
+  {
+    "district": "Maryland's 1st congressional district",
+    "repName": "Andy Harris",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Cockeysville"
+  },
+  {
+    "district": "Maryland's 2nd congressional district",
+    "repName": "Dutch Ruppersberger",
+    "party": "Democratic",
+    "assumedOffice": "2003",
+    "residence": "Baltimore"
+  },
+  {
+    "district": "Maryland's 3rd congressional district",
+    "repName": "John Sarbanes",
+    "party": "Democratic",
+    "assumedOffice": "2007",
+    "residence": "Towson"
+  },
+  {
+    "district": "Maryland's 4th congressional district",
+    "repName": "Anthony G. Brown",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Lanham"
+  },
+  {
+    "district": "Maryland's 5th congressional district",
+    "repName": "Steny Hoyer",
+    "party": "Democratic",
+    "assumedOffice": "1981 (special)",
+    "residence": "Mechanicsville"
+  },
+  {
+    "district": "Maryland's 6th congressional district",
+    "repName": "David Trone",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Potomac"
+  },
+  {
+    "district": "Maryland's 7th congressional district",
+    "repName": "Kweisi Mfume",
+    "party": "Democratic",
+    "assumedOffice": "2020 (special)",
+    "residence": "Baltimore"
+  },
+  {
+    "district": "Maryland's 8th congressional district",
+    "repName": "Jamie Raskin",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Takoma Park"
+  },
+  {
+    "district": "Massachusetts's 1st congressional district",
+    "repName": "Richard Neal",
+    "party": "Democratic",
+    "assumedOffice": "1989",
+    "residence": "Springfield"
+  },
+  {
+    "district": "Massachusetts's 2nd congressional district",
+    "repName": "Jim McGovern",
+    "party": "Democratic",
+    "assumedOffice": "1997",
+    "residence": "Worcester"
+  },
+  {
+    "district": "Massachusetts's 3rd congressional district",
+    "repName": "Lori Trahan",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Westford"
+  },
+  {
+    "district": "Massachusetts's 4th congressional district",
+    "repName": "Joe Kennedy III",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Brookline"
+  },
+  {
+    "district": "Massachusetts's 5th congressional district",
+    "repName": "Katherine Clark",
+    "party": "Democratic",
+    "assumedOffice": "2013 (special)",
+    "residence": "Melrose"
+  },
+  {
+    "district": "Massachusetts's 6th congressional district",
+    "repName": "Seth Moulton",
+    "party": "Democratic",
+    "assumedOffice": "2015",
+    "residence": "Salem"
+  },
+  {
+    "district": "Massachusetts's 7th congressional district",
+    "repName": "Ayanna Pressley",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Dorchester"
+  },
+  {
+    "district": "Massachusetts's 8th congressional district",
+    "repName": "Stephen F. Lynch",
+    "party": "Democratic",
+    "assumedOffice": "2001 (special)",
+    "residence": "Boston"
+  },
+  {
+    "district": "Massachusetts's 9th congressional district",
+    "repName": "Bill Keating",
+    "party": "Democratic",
+    "assumedOffice": "2011",
+    "residence": "Bourne"
+  },
+  {
+    "district": "Michigan's 1st congressional district",
+    "repName": "Jack Bergman",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Watersmeet"
+  },
+  {
+    "district": "Michigan's 2nd congressional district",
+    "repName": "Bill Huizenga",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Zeeland"
+  },
+  {
+    "district": "Michigan's 3rd congressional district",
+    "repName": "Justin Amash",
+    "party": "Libertarian",
+    "assumedOffice": "2011",
+    "residence": "Cascade Township"
+  },
+  {
+    "district": "Michigan's 4th congressional district",
+    "repName": "John Moolenaar",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Midland"
+  },
+  {
+    "district": "Michigan's 5th congressional district",
+    "repName": "Dan Kildee",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Flint Township"
+  },
+  {
+    "district": "Michigan's 6th congressional district",
+    "repName": "Fred Upton",
+    "party": "Republican",
+    "assumedOffice": "1987",
+    "residence": "St. Joseph"
+  },
+  {
+    "district": "Michigan's 7th congressional district",
+    "repName": "Tim Walberg",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Tipton"
+  },
+  {
+    "district": "Michigan's 8th congressional district",
+    "repName": "Elissa Slotkin",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Holly"
+  },
+  {
+    "district": "Michigan's 9th congressional district",
+    "repName": "Andy Levin",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Bloomfield"
+  },
+  {
+    "district": "Michigan's 10th congressional district",
+    "repName": "Paul Mitchell",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Dryden Township"
+  },
+  {
+    "district": "Michigan's 11th congressional district",
+    "repName": "Haley Stevens",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Rochester Hills"
+  },
+  {
+    "district": "Michigan's 12th congressional district",
+    "repName": "Debbie Dingell",
+    "party": "Democratic",
+    "assumedOffice": "2015",
+    "residence": "Dearborn"
+  },
+  {
+    "district": "Michigan's 13th congressional district",
+    "repName": "Rashida Tlaib",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Detroit"
+  },
+  {
+    "district": "Michigan's 14th congressional district",
+    "repName": "Brenda Lawrence",
+    "party": "Democratic",
+    "assumedOffice": "2015",
+    "residence": "Southfield"
+  },
+  {
+    "district": "Minnesota's 1st congressional district",
+    "repName": "Jim Hagedorn",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Blue Earth"
+  },
+  {
+    "district": "Minnesota's 2nd congressional district",
+    "repName": "Angie Craig",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Eagan"
+  },
+  {
+    "district": "Minnesota's 3rd congressional district",
+    "repName": "Dean Phillips",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Deephaven"
+  },
+  {
+    "district": "Minnesota's 4th congressional district",
+    "repName": "Betty McCollum",
+    "party": "Democratic",
+    "assumedOffice": "2001",
+    "residence": "Saint Paul"
+  },
+  {
+    "district": "Minnesota's 5th congressional district",
+    "repName": "Ilhan Omar",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Minneapolis"
+  },
+  {
+    "district": "Minnesota's 6th congressional district",
+    "repName": "Tom Emmer",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Delano"
+  },
+  {
+    "district": "Minnesota's 7th congressional district",
+    "repName": "Collin Peterson",
+    "party": "Democratic",
+    "assumedOffice": "1991",
+    "residence": "Detroit Lakes"
+  },
+  {
+    "district": "Minnesota's 8th congressional district",
+    "repName": "Pete Stauber",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Hermantown"
+  },
+  {
+    "district": "Mississippi's 1st congressional district",
+    "repName": "Trent Kelly",
+    "party": "Republican",
+    "assumedOffice": "2015 (special)",
+    "residence": "Saltillo"
+  },
+  {
+    "district": "Mississippi's 2nd congressional district",
+    "repName": "Bennie Thompson",
+    "party": "Democratic",
+    "assumedOffice": "1993 (special)",
+    "residence": "Bolton"
+  },
+  {
+    "district": "Mississippi's 3rd congressional district",
+    "repName": "Michael Guest",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Brandon"
+  },
+  {
+    "district": "Mississippi's 4th congressional district",
+    "repName": "Steven Palazzo",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Gulfport"
+  },
+  {
+    "district": "Missouri's 1st congressional district",
+    "repName": "Lacy Clay",
+    "party": "Democratic",
+    "assumedOffice": "2001",
+    "residence": "St. Louis"
+  },
+  {
+    "district": "Missouri's 2nd congressional district",
+    "repName": "Ann Wagner",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Ballwin"
+  },
+  {
+    "district": "Missouri's 3rd congressional district",
+    "repName": "Blaine Luetkemeyer",
+    "party": "Republican",
+    "assumedOffice": "2009",
+    "residence": "St. Elizabeth"
+  },
+  {
+    "district": "Missouri's 4th congressional district",
+    "repName": "Vicky Hartzler",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Harrisonville"
+  },
+  {
+    "district": "Missouri's 5th congressional district",
+    "repName": "Emanuel Cleaver",
+    "party": "Democratic",
+    "assumedOffice": "2005",
+    "residence": "Kansas City"
+  },
+  {
+    "district": "Missouri's 6th congressional district",
+    "repName": "Sam Graves",
+    "party": "Republican",
+    "assumedOffice": "2001",
+    "residence": "Tarkio"
+  },
+  {
+    "district": "Missouri's 7th congressional district",
+    "repName": "Billy Long",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Springfield"
+  },
+  {
+    "district": "Missouri's 8th congressional district",
+    "repName": "Jason Smith",
+    "party": "Republican",
+    "assumedOffice": "2013 (special)",
+    "residence": "Salem"
+  },
+  {
+    "district": "Montana's at-large congressional district",
+    "repName": "Greg Gianforte",
+    "party": "Republican",
+    "assumedOffice": "2017 (special)",
+    "residence": "Bozeman"
+  },
+  {
+    "district": "Nebraska's 1st congressional district",
+    "repName": "Jeff Fortenberry",
+    "party": "Republican",
+    "assumedOffice": "2005",
+    "residence": "Lincoln"
+  },
+  {
+    "district": "Nebraska's 2nd congressional district",
+    "repName": "Don Bacon",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Papillion"
+  },
+  {
+    "district": "Nebraska's 3rd congressional district",
+    "repName": "Adrian Smith",
+    "party": "Republican",
+    "assumedOffice": "2007",
+    "residence": "Gering"
+  },
+  {
+    "district": "Nevada's 1st congressional district",
+    "repName": "Dina Titus",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Las Vegas"
+  },
+  {
+    "district": "Nevada's 2nd congressional district",
+    "repName": "Mark Amodei",
+    "party": "Republican",
+    "assumedOffice": "2011 (special)",
+    "residence": "Carson City"
+  },
+  {
+    "district": "Nevada's 3rd congressional district",
+    "repName": "Susie Lee",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Las Vegas"
+  },
+  {
+    "district": "Nevada's 4th congressional district",
+    "repName": "Steven Horsford",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Las Vegas"
+  },
+  {
+    "district": "New Hampshire's 1st congressional district",
+    "repName": "Chris Pappas",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Manchester"
+  },
+  {
+    "district": "New Hampshire's 2nd congressional district",
+    "repName": "Ann McLane Kuster",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Hopkinton"
+  },
+  {
+    "district": "New Jersey's 1st congressional district",
+    "repName": "Donald Norcross",
+    "party": "Democratic",
+    "assumedOffice": "2014 (special)",
+    "residence": "Camden"
+  },
+  {
+    "district": "New Jersey's 2nd congressional district",
+    "repName": "Jeff Van Drew",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Dennis Township"
+  },
+  {
+    "district": "New Jersey's 3rd congressional district",
+    "repName": "Andy Kim",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Bordentown"
+  },
+  {
+    "district": "New Jersey's 4th congressional district",
+    "repName": "Chris Smith",
+    "party": "Republican",
+    "assumedOffice": "1981",
+    "residence": "Hamilton Township, Mercer County"
+  },
+  {
+    "district": "New Jersey's 5th congressional district",
+    "repName": "Josh Gottheimer",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Wyckoff"
+  },
+  {
+    "district": "New Jersey's 6th congressional district",
+    "repName": "Frank Pallone",
+    "party": "Democratic",
+    "assumedOffice": "1988 (special)",
+    "residence": "New Brunswick"
+  },
+  {
+    "district": "New Jersey's 7th congressional district",
+    "repName": "Tom Malinowski",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Rocky Hill"
+  },
+  {
+    "district": "New Jersey's 8th congressional district",
+    "repName": "Albio Sires",
+    "party": "Democratic",
+    "assumedOffice": "2006 (special)",
+    "residence": "West New York"
+  },
+  {
+    "district": "New Jersey's 9th congressional district",
+    "repName": "Bill Pascrell",
+    "party": "Democratic",
+    "assumedOffice": "1997",
+    "residence": "Paterson"
+  },
+  {
+    "district": "New Jersey's 10th congressional district",
+    "repName": "Donald Payne Jr.",
+    "party": "Democratic",
+    "assumedOffice": "2012 (special)",
+    "residence": "Newark"
+  },
+  {
+    "district": "New Jersey's 11th congressional district",
+    "repName": "Mikie Sherrill",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Montclair"
+  },
+  {
+    "district": "New Jersey's 12th congressional district",
+    "repName": "Bonnie Watson Coleman",
+    "party": "Democratic",
+    "assumedOffice": "2015",
+    "residence": "Ewing Township"
+  },
+  {
+    "district": "New Mexico's 1st congressional district",
+    "repName": "Deb Haaland",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Albuquerque"
+  },
+  {
+    "district": "New Mexico's 2nd congressional district",
+    "repName": "Xochitl Torres Small",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Las Cruces"
+  },
+  {
+    "district": "New Mexico's 3rd congressional district",
+    "repName": "Ben Ray Luján",
+    "party": "Democratic",
+    "assumedOffice": "2009",
+    "residence": "Santa Fe"
+  },
+  {
+    "district": "New York's 1st congressional district",
+    "repName": "Lee Zeldin",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Shirley"
+  },
+  {
+    "district": "New York's 2nd congressional district",
+    "repName": "Peter T. King",
+    "party": "Republican",
+    "assumedOffice": "1993",
+    "residence": "Seaford"
+  },
+  {
+    "district": "New York's 3rd congressional district",
+    "repName": "Thomas Suozzi",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Glen Cove"
+  },
+  {
+    "district": "New York's 4th congressional district",
+    "repName": "Kathleen Rice",
+    "party": "Democratic",
+    "assumedOffice": "2015",
+    "residence": "Garden City"
+  },
+  {
+    "district": "New York's 5th congressional district",
+    "repName": "Gregory Meeks",
+    "party": "Democratic",
+    "assumedOffice": "1998 (special)",
+    "residence": "Jamaica"
+  },
+  {
+    "district": "New York's 6th congressional district",
+    "repName": "Grace Meng",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Flushing, Queens"
+  },
+  {
+    "district": "New York's 7th congressional district",
+    "repName": "Nydia Velázquez",
+    "party": "Democratic",
+    "assumedOffice": "1993",
+    "residence": "Sunset Park, Brooklyn"
+  },
+  {
+    "district": "New York's 8th congressional district",
+    "repName": "Hakeem Jeffries",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Prospect Heights, Brooklyn"
+  },
+  {
+    "district": "New York's 9th congressional district",
+    "repName": "Yvette Clarke",
+    "party": "Democratic",
+    "assumedOffice": "2007",
+    "residence": "Flatbush, Brooklyn"
+  },
+  {
+    "district": "New York's 10th congressional district",
+    "repName": "Jerry Nadler",
+    "party": "Democratic",
+    "assumedOffice": "1992 (special)",
+    "residence": "Chelsea, Manhattan"
+  },
+  {
+    "district": "New York's 11th congressional district",
+    "repName": "Max Rose",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Staten Island"
+  },
+  {
+    "district": "New York's 12th congressional district",
+    "repName": "Carolyn Maloney",
+    "party": "Democratic",
+    "assumedOffice": "1993",
+    "residence": "East Harlem, Manhattan"
+  },
+  {
+    "district": "New York's 13th congressional district",
+    "repName": "Adriano Espaillat",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Inwood, Manhattan"
+  },
+  {
+    "district": "New York's 14th congressional district",
+    "repName": "Alexandria Ocasio-Cortez",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Bronx"
+  },
+  {
+    "district": "New York's 15th congressional district",
+    "repName": "José E. Serrano",
+    "party": "Democratic",
+    "assumedOffice": "1990 (special)",
+    "residence": "Concourse, Bronx"
+  },
+  {
+    "district": "New York's 16th congressional district",
+    "repName": "Eliot Engel",
+    "party": "Democratic",
+    "assumedOffice": "1989",
+    "residence": "Riverdale, Bronx"
+  },
+  {
+    "district": "New York's 17th congressional district",
+    "repName": "Nita Lowey",
+    "party": "Democratic",
+    "assumedOffice": "1989",
+    "residence": "Harrison"
+  },
+  {
+    "district": "New York's 18th congressional district",
+    "repName": "Sean Patrick Maloney",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Carmel"
+  },
+  {
+    "district": "New York's 19th congressional district",
+    "repName": "Antonio Delgado",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Rhinebeck"
+  },
+  {
+    "district": "New York's 20th congressional district",
+    "repName": "Paul Tonko",
+    "party": "Democratic",
+    "assumedOffice": "2009",
+    "residence": "Amsterdam"
+  },
+  {
+    "district": "New York's 21st congressional district",
+    "repName": "Elise Stefanik",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Schuylerville"
+  },
+  {
+    "district": "New York's 22nd congressional district",
+    "repName": "Anthony Brindisi",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Utica"
+  },
+  {
+    "district": "New York's 23rd congressional district",
+    "repName": "Tom Reed",
+    "party": "Republican",
+    "assumedOffice": "2010 (special)",
+    "residence": "Corning"
+  },
+  {
+    "district": "New York's 24th congressional district",
+    "repName": "John Katko",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Camillus"
+  },
+  {
+    "district": "New York's 25th congressional district",
+    "repName": "Joseph Morelle",
+    "party": "Democratic",
+    "assumedOffice": "2018 (special)",
+    "residence": "Irondequoit"
+  },
+  {
+    "district": "New York's 26th congressional district",
+    "repName": "Brian Higgins",
+    "party": "Democratic",
+    "assumedOffice": "2005",
+    "residence": "Buffalo"
+  },
+  {
+    "district": "New York's 27th congressional district",
+    "repName": "Chris Jacobs",
+    "party": "Republican",
+    "assumedOffice": "2020 (special)",
+    "residence": "Orchard Park"
+  },
+  {
+    "district": "North Carolina's 1st congressional district",
+    "repName": "G. K. Butterfield",
+    "party": "Democratic",
+    "assumedOffice": "2004 (special)",
+    "residence": "Wilson"
+  },
+  {
+    "district": "North Carolina's 2nd congressional district",
+    "repName": "George Holding",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Raleigh"
+  },
+  {
+    "district": "North Carolina's 3rd congressional district",
+    "repName": "Greg Murphy",
+    "party": "Republican",
+    "assumedOffice": "2019 (special)",
+    "residence": "Greenville"
+  },
+  {
+    "district": "North Carolina's 4th congressional district",
+    "repName": "David Price",
+    "party": "Democratic",
+    "assumedOffice": "1997",
+    "residence": "Chapel Hill"
+  },
+  {
+    "district": "North Carolina's 5th congressional district",
+    "repName": "Virginia Foxx",
+    "party": "Republican",
+    "assumedOffice": "2005",
+    "residence": "Banner Elk"
+  },
+  {
+    "district": "North Carolina's 6th congressional district",
+    "repName": "Mark Walker",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Greensboro"
+  },
+  {
+    "district": "North Carolina's 7th congressional district",
+    "repName": "David Rouzer",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "McGee Crossroads"
+  },
+  {
+    "district": "North Carolina's 8th congressional district",
+    "repName": "Richard Hudson",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Concord"
+  },
+  {
+    "district": "North Carolina's 9th congressional district",
+    "repName": "Dan Bishop",
+    "party": "Republican",
+    "assumedOffice": "2019 (special)",
+    "residence": "Charlotte"
+  },
+  {
+    "district": "North Carolina's 10th congressional district",
+    "repName": "Patrick McHenry",
+    "party": "Republican",
+    "assumedOffice": "2005",
+    "residence": "Cherryville"
+  },
+  {
+    "district": "North Carolina's 11th congressional district",
+    "repName": "",
+    "party": "",
+    "assumedOffice": "",
+    "residence": ""
+  },
+  {
+    "district": "North Carolina's 12th congressional district",
+    "repName": "Alma Adams",
+    "party": "Democratic",
+    "assumedOffice": "2014 (special)",
+    "residence": "Charlotte"
+  },
+  {
+    "district": "North Carolina's 13th congressional district",
+    "repName": "Ted Budd",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Advance"
+  },
+  {
+    "district": "North Dakota's at-large congressional district",
+    "repName": "Kelly Armstrong",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Dickinson"
+  },
+  {
+    "district": "Ohio's 1st congressional district",
+    "repName": "Steve Chabot",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Cincinnati"
+  },
+  {
+    "district": "Ohio's 2nd congressional district",
+    "repName": "Brad Wenstrup",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Cincinnati"
+  },
+  {
+    "district": "Ohio's 3rd congressional district",
+    "repName": "Joyce Beatty",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Columbus"
+  },
+  {
+    "district": "Ohio's 4th congressional district",
+    "repName": "Jim Jordan",
+    "party": "Republican",
+    "assumedOffice": "2007",
+    "residence": "Lima"
+  },
+  {
+    "district": "Ohio's 5th congressional district",
+    "repName": "Bob Latta",
+    "party": "Republican",
+    "assumedOffice": "2007",
+    "residence": "Bowling Green"
+  },
+  {
+    "district": "Ohio's 6th congressional district",
+    "repName": "Bill Johnson",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Marietta"
+  },
+  {
+    "district": "Ohio's 7th congressional district",
+    "repName": "Bob Gibbs",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Washington Township, Holmes County"
+  },
+  {
+    "district": "Ohio's 8th congressional district",
+    "repName": "Warren Davidson",
+    "party": "Republican",
+    "assumedOffice": "2016 (special)",
+    "residence": "Troy"
+  },
+  {
+    "district": "Ohio's 9th congressional district",
+    "repName": "Marcy Kaptur",
+    "party": "Democratic",
+    "assumedOffice": "1983",
+    "residence": "Toledo"
+  },
+  {
+    "district": "Ohio's 10th congressional district",
+    "repName": "Mike Turner",
+    "party": "Republican",
+    "assumedOffice": "2003",
+    "residence": "Dayton"
+  },
+  {
+    "district": "Ohio's 11th congressional district",
+    "repName": "Marcia Fudge",
+    "party": "Democratic",
+    "assumedOffice": "2008 (special)",
+    "residence": "Cleveland"
+  },
+  {
+    "district": "Ohio's 12th congressional district",
+    "repName": "Troy Balderson",
+    "party": "Republican",
+    "assumedOffice": "2018 (special)",
+    "residence": "Zanesville"
+  },
+  {
+    "district": "Ohio's 13th congressional district",
+    "repName": "Tim Ryan",
+    "party": "Democratic",
+    "assumedOffice": "2003",
+    "residence": "Niles"
+  },
+  {
+    "district": "Ohio's 14th congressional district",
+    "repName": "David Joyce",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Richmond Heights"
+  },
+  {
+    "district": "Ohio's 15th congressional district",
+    "repName": "Steve Stivers",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Columbus"
+  },
+  {
+    "district": "Ohio's 16th congressional district",
+    "repName": "Anthony Gonzalez",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Rocky River"
+  },
+  {
+    "district": "Oklahoma's 1st congressional district",
+    "repName": "Kevin Hern",
+    "party": "Republican",
+    "assumedOffice": "2018 (special)",
+    "residence": "Tulsa"
+  },
+  {
+    "district": "Oklahoma's 2nd congressional district",
+    "repName": "Markwayne Mullin",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Westville"
+  },
+  {
+    "district": "Oklahoma's 3rd congressional district",
+    "repName": "Frank Lucas",
+    "party": "Republican",
+    "assumedOffice": "1994 (special)",
+    "residence": "Enid"
+  },
+  {
+    "district": "Oklahoma's 4th congressional district",
+    "repName": "Tom Cole",
+    "party": "Republican",
+    "assumedOffice": "2003",
+    "residence": "Moore"
+  },
+  {
+    "district": "Oklahoma's 5th congressional district",
+    "repName": "Kendra Horn",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Oklahoma City"
+  },
+  {
+    "district": "Oregon's 1st congressional district",
+    "repName": "Suzanne Bonamici",
+    "party": "Democratic",
+    "assumedOffice": "2012 (special)",
+    "residence": "Beaverton"
+  },
+  {
+    "district": "Oregon's 2nd congressional district",
+    "repName": "Greg Walden",
+    "party": "Republican",
+    "assumedOffice": "1999",
+    "residence": "Hood River"
+  },
+  {
+    "district": "Oregon's 3rd congressional district",
+    "repName": "Earl Blumenauer",
+    "party": "Democratic",
+    "assumedOffice": "1996 (special)",
+    "residence": "Portland"
+  },
+  {
+    "district": "Oregon's 4th congressional district",
+    "repName": "Peter DeFazio",
+    "party": "Democratic",
+    "assumedOffice": "1987",
+    "residence": "Springfield"
+  },
+  {
+    "district": "Oregon's 5th congressional district",
+    "repName": "Kurt Schrader",
+    "party": "Democratic",
+    "assumedOffice": "2009",
+    "residence": "Canby"
+  },
+  {
+    "district": "Pennsylvania's 1st congressional district",
+    "repName": "Brian Fitzpatrick",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Levittown"
+  },
+  {
+    "district": "Pennsylvania's 2nd congressional district",
+    "repName": "Brendan Boyle",
+    "party": "Democratic",
+    "assumedOffice": "2015",
+    "residence": "Philadelphia"
+  },
+  {
+    "district": "Pennsylvania's 3rd congressional district",
+    "repName": "Dwight Evans",
+    "party": "Democratic",
+    "assumedOffice": "2016 (special)",
+    "residence": "Philadelphia"
+  },
+  {
+    "district": "Pennsylvania's 4th congressional district",
+    "repName": "Madeleine Dean",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Abington Township, Montgomery County"
+  },
+  {
+    "district": "Pennsylvania's 5th congressional district",
+    "repName": "Mary Gay Scanlon",
+    "party": "Democratic",
+    "assumedOffice": "2018 (special)",
+    "residence": "Swarthmore"
+  },
+  {
+    "district": "Pennsylvania's 6th congressional district",
+    "repName": "Chrissy Houlahan",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Devon"
+  },
+  {
+    "district": "Pennsylvania's 7th congressional district",
+    "repName": "Susan Wild",
+    "party": "Democratic",
+    "assumedOffice": "2018 (special)",
+    "residence": "South Whitehall Township"
+  },
+  {
+    "district": "Pennsylvania's 8th congressional district",
+    "repName": "Matt Cartwright",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Moosic"
+  },
+  {
+    "district": "Pennsylvania's 9th congressional district",
+    "repName": "Dan Meuser",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Dallas"
+  },
+  {
+    "district": "Pennsylvania's 10th congressional district",
+    "repName": "Scott Perry",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Harrisburg"
+  },
+  {
+    "district": "Pennsylvania's 11th congressional district",
+    "repName": "Lloyd Smucker",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "West Lampeter Township"
+  },
+  {
+    "district": "Pennsylvania's 12th congressional district",
+    "repName": "Fred Keller",
+    "party": "Republican",
+    "assumedOffice": "2019 (special)",
+    "residence": "Middlecreek Township, Snyder County"
+  },
+  {
+    "district": "Pennsylvania's 13th congressional district",
+    "repName": "John Joyce",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Altoona"
+  },
+  {
+    "district": "Pennsylvania's 14th congressional district",
+    "repName": "Guy Reschenthaler",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Jefferson Hills"
+  },
+  {
+    "district": "Pennsylvania's 15th congressional district",
+    "repName": "Glenn Thompson",
+    "party": "Republican",
+    "assumedOffice": "2009",
+    "residence": "Oil City"
+  },
+  {
+    "district": "Pennsylvania's 16th congressional district",
+    "repName": "Mike Kelly",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Butler"
+  },
+  {
+    "district": "Pennsylvania's 17th congressional district",
+    "repName": "Conor Lamb",
+    "party": "Democratic",
+    "assumedOffice": "2018 (special)",
+    "residence": "Mt. Lebanon"
+  },
+  {
+    "district": "Pennsylvania's 18th congressional district",
+    "repName": "Mike Doyle",
+    "party": "Democratic",
+    "assumedOffice": "1995",
+    "residence": "Pittsburgh"
+  },
+  {
+    "district": "Rhode Island's 1st congressional district",
+    "repName": "David Cicilline",
+    "party": "Democratic",
+    "assumedOffice": "2011",
+    "residence": "Providence"
+  },
+  {
+    "district": "Rhode Island's 2nd congressional district",
+    "repName": "James Langevin",
+    "party": "Democratic",
+    "assumedOffice": "2001",
+    "residence": "Warwick"
+  },
+  {
+    "district": "South Carolina's 1st congressional district",
+    "repName": "Joe Cunningham",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Charleston"
+  },
+  {
+    "district": "South Carolina's 2nd congressional district",
+    "repName": "Joe Wilson",
+    "party": "Republican",
+    "assumedOffice": "2001 (special)",
+    "residence": "West Columbia"
+  },
+  {
+    "district": "South Carolina's 3rd congressional district",
+    "repName": "Jeff Duncan",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Laurens"
+  },
+  {
+    "district": "South Carolina's 4th congressional district",
+    "repName": "William Timmons",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Greenville"
+  },
+  {
+    "district": "South Carolina's 5th congressional district",
+    "repName": "Ralph Norman",
+    "party": "Republican",
+    "assumedOffice": "2017 (special)",
+    "residence": "Rock Hill"
+  },
+  {
+    "district": "South Carolina's 6th congressional district",
+    "repName": "Jim Clyburn",
+    "party": "Democratic",
+    "assumedOffice": "1993",
+    "residence": "Columbia"
+  },
+  {
+    "district": "South Carolina's 7th congressional district",
+    "repName": "Tom Rice",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Myrtle Beach"
+  },
+  {
+    "district": "South Dakota's at-large congressional district",
+    "repName": "Dusty Johnson",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Mitchell"
+  },
+  {
+    "district": "Tennessee's 1st congressional district",
+    "repName": "Phil Roe",
+    "party": "Republican",
+    "assumedOffice": "2009",
+    "residence": "Johnson City"
+  },
+  {
+    "district": "Tennessee's 2nd congressional district",
+    "repName": "Tim Burchett",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Knoxville"
+  },
+  {
+    "district": "Tennessee's 3rd congressional district",
+    "repName": "Chuck Fleischmann",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Ooltewah"
+  },
+  {
+    "district": "Tennessee's 4th congressional district",
+    "repName": "Scott DesJarlais",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "South Pittsburg"
+  },
+  {
+    "district": "Tennessee's 5th congressional district",
+    "repName": "Jim Cooper",
+    "party": "Democratic",
+    "assumedOffice": "2003",
+    "residence": "Nashville"
+  },
+  {
+    "district": "Tennessee's 6th congressional district",
+    "repName": "John Rose",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Cookeville"
+  },
+  {
+    "district": "Tennessee's 7th congressional district",
+    "repName": "Mark E. Green",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Clarksville"
+  },
+  {
+    "district": "Tennessee's 8th congressional district",
+    "repName": "David Kustoff",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Memphis"
+  },
+  {
+    "district": "Tennessee's 9th congressional district",
+    "repName": "Steve Cohen",
+    "party": "Democratic",
+    "assumedOffice": "2007",
+    "residence": "Memphis"
+  },
+  {
+    "district": "Texas's 1st congressional district",
+    "repName": "Louie Gohmert",
+    "party": "Republican",
+    "assumedOffice": "2005",
+    "residence": "Tyler"
+  },
+  {
+    "district": "Texas's 2nd congressional district",
+    "repName": "Dan Crenshaw",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Spring"
+  },
+  {
+    "district": "Texas's 3rd congressional district",
+    "repName": "Van Taylor",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Plano"
+  },
+  {
+    "district": "Texas's 4th congressional district",
+    "repName": "",
+    "party": "",
+    "assumedOffice": "",
+    "residence": ""
+  },
+  {
+    "district": "Texas's 5th congressional district",
+    "repName": "Lance Gooden",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Kaufman"
+  },
+  {
+    "district": "Texas's 6th congressional district",
+    "repName": "Ron Wright",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Arlington"
+  },
+  {
+    "district": "Texas's 7th congressional district",
+    "repName": "Lizzie Pannill Fletcher",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Houston"
+  },
+  {
+    "district": "Texas's 8th congressional district",
+    "repName": "Kevin Brady",
+    "party": "Republican",
+    "assumedOffice": "1997",
+    "residence": "The Woodlands"
+  },
+  {
+    "district": "Texas's 9th congressional district",
+    "repName": "Al Green",
+    "party": "Democratic",
+    "assumedOffice": "2005",
+    "residence": "Houston"
+  },
+  {
+    "district": "Texas's 10th congressional district",
+    "repName": "Michael McCaul",
+    "party": "Republican",
+    "assumedOffice": "2005",
+    "residence": "West Lake Hills"
+  },
+  {
+    "district": "Texas's 11th congressional district",
+    "repName": "Mike Conaway",
+    "party": "Republican",
+    "assumedOffice": "2005",
+    "residence": "Midland"
+  },
+  {
+    "district": "Texas's 12th congressional district",
+    "repName": "Kay Granger",
+    "party": "Republican",
+    "assumedOffice": "1997",
+    "residence": "Fort Worth"
+  },
+  {
+    "district": "Texas's 13th congressional district",
+    "repName": "Mac Thornberry",
+    "party": "Republican",
+    "assumedOffice": "1995",
+    "residence": "Clarendon"
+  },
+  {
+    "district": "Texas's 14th congressional district",
+    "repName": "Randy Weber",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Alvin"
+  },
+  {
+    "district": "Texas's 15th congressional district",
+    "repName": "Vicente Gonzalez",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "McAllen"
+  },
+  {
+    "district": "Texas's 16th congressional district",
+    "repName": "Veronica Escobar",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "El Paso"
+  },
+  {
+    "district": "Texas's 17th congressional district",
+    "repName": "Bill Flores",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Bryan"
+  },
+  {
+    "district": "Texas's 18th congressional district",
+    "repName": "Sheila Jackson Lee",
+    "party": "Democratic",
+    "assumedOffice": "1995",
+    "residence": "Houston"
+  },
+  {
+    "district": "Texas's 19th congressional district",
+    "repName": "Jodey Arrington",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Lubbock"
+  },
+  {
+    "district": "Texas's 20th congressional district",
+    "repName": "Joaquin Castro",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "San Antonio"
+  },
+  {
+    "district": "Texas's 21st congressional district",
+    "repName": "Chip Roy",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Austin"
+  },
+  {
+    "district": "Texas's 22nd congressional district",
+    "repName": "Pete Olson",
+    "party": "Republican",
+    "assumedOffice": "2009",
+    "residence": "Sugar Land"
+  },
+  {
+    "district": "Texas's 23rd congressional district",
+    "repName": "Will Hurd",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Helotes"
+  },
+  {
+    "district": "Texas's 24th congressional district",
+    "repName": "Kenny Marchant",
+    "party": "Republican",
+    "assumedOffice": "2005",
+    "residence": "Coppell"
+  },
+  {
+    "district": "Texas's 25th congressional district",
+    "repName": "Roger Williams",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Weatherford"
+  },
+  {
+    "district": "Texas's 26th congressional district",
+    "repName": "Michael C. Burgess",
+    "party": "Republican",
+    "assumedOffice": "2003",
+    "residence": "Lewisville"
+  },
+  {
+    "district": "Texas's 27th congressional district",
+    "repName": "Michael Cloud",
+    "party": "Republican",
+    "assumedOffice": "2018 (special)",
+    "residence": "Victoria"
+  },
+  {
+    "district": "Texas's 28th congressional district",
+    "repName": "Henry Cuellar",
+    "party": "Democratic",
+    "assumedOffice": "2005",
+    "residence": "Laredo"
+  },
+  {
+    "district": "Texas's 29th congressional district",
+    "repName": "Sylvia Garcia",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Houston"
+  },
+  {
+    "district": "Texas's 30th congressional district",
+    "repName": "Eddie Bernice Johnson",
+    "party": "Democratic",
+    "assumedOffice": "1993",
+    "residence": "Dallas"
+  },
+  {
+    "district": "Texas's 31st congressional district",
+    "repName": "John Carter",
+    "party": "Republican",
+    "assumedOffice": "2003",
+    "residence": "Round Rock"
+  },
+  {
+    "district": "Texas's 32nd congressional district",
+    "repName": "Colin Allred",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Dallas"
+  },
+  {
+    "district": "Texas's 33rd congressional district",
+    "repName": "Marc Veasey",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Fort Worth"
+  },
+  {
+    "district": "Texas's 34th congressional district",
+    "repName": "Filemon Vela Jr.",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Brownsville"
+  },
+  {
+    "district": "Texas's 35th congressional district",
+    "repName": "Lloyd Doggett",
+    "party": "Democratic",
+    "assumedOffice": "1995",
+    "residence": "Austin"
+  },
+  {
+    "district": "Texas's 36th congressional district",
+    "repName": "Brian Babin",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Woodville"
+  },
+  {
+    "district": "Utah's 1st congressional district",
+    "repName": "Rob Bishop",
+    "party": "Republican",
+    "assumedOffice": "2003",
+    "residence": "Brigham City"
+  },
+  {
+    "district": "Utah's 2nd congressional district",
+    "repName": "Chris Stewart",
+    "party": "Republican",
+    "assumedOffice": "2013",
+    "residence": "Farmington"
+  },
+  {
+    "district": "Utah's 3rd congressional district",
+    "repName": "John Curtis",
+    "party": "Republican",
+    "assumedOffice": "2017 (special)",
+    "residence": "Provo"
+  },
+  {
+    "district": "Utah's 4th congressional district",
+    "repName": "Ben McAdams",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Salt Lake City"
+  },
+  {
+    "district": "Vermont's at-large congressional district",
+    "repName": "Peter Welch",
+    "party": "Democratic",
+    "assumedOffice": "2007",
+    "residence": "Norwich"
+  },
+  {
+    "district": "Virginia's 1st congressional district",
+    "repName": "Rob Wittman",
+    "party": "Republican",
+    "assumedOffice": "2007 (special)",
+    "residence": "Montross"
+  },
+  {
+    "district": "Virginia's 2nd congressional district",
+    "repName": "Elaine Luria",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Norfolk"
+  },
+  {
+    "district": "Virginia's 3rd congressional district",
+    "repName": "Bobby Scott",
+    "party": "Democratic",
+    "assumedOffice": "1993",
+    "residence": "Newport News"
+  },
+  {
+    "district": "Virginia's 4th congressional district",
+    "repName": "Donald McEachin",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Henrico County"
+  },
+  {
+    "district": "Virginia's 5th congressional district",
+    "repName": "Denver Riggleman",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Nellysford"
+  },
+  {
+    "district": "Virginia's 6th congressional district",
+    "repName": "Ben Cline",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Rockbridge County"
+  },
+  {
+    "district": "Virginia's 7th congressional district",
+    "repName": "Abigail Spanberger",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Glen Allen"
+  },
+  {
+    "district": "Virginia's 8th congressional district",
+    "repName": "Don Beyer",
+    "party": "Democratic",
+    "assumedOffice": "2015",
+    "residence": "Alexandria"
+  },
+  {
+    "district": "Virginia's 9th congressional district",
+    "repName": "Morgan Griffith",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Salem"
+  },
+  {
+    "district": "Virginia's 10th congressional district",
+    "repName": "Jennifer Wexton",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Leesburg"
+  },
+  {
+    "district": "Virginia's 11th congressional district",
+    "repName": "Gerry Connolly",
+    "party": "Democratic",
+    "assumedOffice": "2009",
+    "residence": "Fairfax"
+  },
+  {
+    "district": "Washington's 1st congressional district",
+    "repName": "Suzan DelBene",
+    "party": "Democratic",
+    "assumedOffice": "2012 (special)",
+    "residence": "Medina"
+  },
+  {
+    "district": "Washington's 2nd congressional district",
+    "repName": "Rick Larsen",
+    "party": "Democratic",
+    "assumedOffice": "2001",
+    "residence": "Lake Stevens"
+  },
+  {
+    "district": "Washington's 3rd congressional district",
+    "repName": "Jaime Herrera Beutler",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Camas"
+  },
+  {
+    "district": "Washington's 4th congressional district",
+    "repName": "Dan Newhouse",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Sunnyside"
+  },
+  {
+    "district": "Washington's 5th congressional district",
+    "repName": "Cathy McMorris Rodgers",
+    "party": "Republican",
+    "assumedOffice": "2005",
+    "residence": "Colville"
+  },
+  {
+    "district": "Washington's 6th congressional district",
+    "repName": "Derek Kilmer",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Artondale"
+  },
+  {
+    "district": "Washington's 7th congressional district",
+    "repName": "Pramila Jayapal",
+    "party": "Democratic",
+    "assumedOffice": "2017",
+    "residence": "Seattle"
+  },
+  {
+    "district": "Washington's 8th congressional district",
+    "repName": "Kim Schrier",
+    "party": "Democratic",
+    "assumedOffice": "2019",
+    "residence": "Sammamish"
+  },
+  {
+    "district": "Washington's 9th congressional district",
+    "repName": "Adam Smith",
+    "party": "Democratic",
+    "assumedOffice": "1997",
+    "residence": "Bellevue"
+  },
+  {
+    "district": "Washington's 10th congressional district",
+    "repName": "Denny Heck",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Olympia"
+  },
+  {
+    "district": "West Virginia's 1st congressional district",
+    "repName": "David McKinley",
+    "party": "Republican",
+    "assumedOffice": "2011",
+    "residence": "Wheeling"
+  },
+  {
+    "district": "West Virginia's 2nd congressional district",
+    "repName": "Alex Mooney",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Charles Town"
+  },
+  {
+    "district": "West Virginia's 3rd congressional district",
+    "repName": "Carol Miller",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Crab Orchard"
+  },
+  {
+    "district": "Wisconsin's 1st congressional district",
+    "repName": "Bryan Steil",
+    "party": "Republican",
+    "assumedOffice": "2019",
+    "residence": "Janesville"
+  },
+  {
+    "district": "Wisconsin's 2nd congressional district",
+    "repName": "Mark Pocan",
+    "party": "Democratic",
+    "assumedOffice": "2013",
+    "residence": "Madison"
+  },
+  {
+    "district": "Wisconsin's 3rd congressional district",
+    "repName": "Ron Kind",
+    "party": "Democratic",
+    "assumedOffice": "1997",
+    "residence": "La Crosse"
+  },
+  {
+    "district": "Wisconsin's 4th congressional district",
+    "repName": "Gwen Moore",
+    "party": "Democratic",
+    "assumedOffice": "2005",
+    "residence": "Milwaukee"
+  },
+  {
+    "district": "Wisconsin's 5th congressional district",
+    "repName": "Jim Sensenbrenner",
+    "party": "Republican",
+    "assumedOffice": "1979",
+    "residence": "Menomonee Falls"
+  },
+  {
+    "district": "Wisconsin's 6th congressional district",
+    "repName": "Glenn Grothman",
+    "party": "Republican",
+    "assumedOffice": "2015",
+    "residence": "Campbellsport"
+  },
+  {
+    "district": "Wisconsin's 7th congressional district",
+    "repName": "Tom Tiffany",
+    "party": "Republican",
+    "assumedOffice": "2020 (special)",
+    "residence": "Minocqua"
+  },
+  {
+    "district": "Wisconsin's 8th congressional district",
+    "repName": "Mike Gallagher",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Green Bay"
+  },
+  {
+    "district": "Wyoming's at-large congressional district",
+    "repName": "Liz Cheney",
+    "party": "Republican",
+    "assumedOffice": "2017",
+    "residence": "Jackson"
+  }
+]
